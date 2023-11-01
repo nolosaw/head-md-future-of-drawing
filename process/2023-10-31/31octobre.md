@@ -1,6 +1,6 @@
 # 31-octobre
 
-croquis d'intraction
+croquis d'interaction
 discussions sur la narration: éviter l'effet écran, repenser l'interaction et la narration
 lectures et écoutes sur le rôle du héros, la relativisation de ce rôle
 
