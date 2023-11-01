@@ -27,3 +27,9 @@
 - Test des lumière sur le volume non terminé
 
 ![Essai d'effet de lumière](/papier-mache-light.jpg)
+
+## What's next ?
+
+- Fin du prototypage en papier maché
+- Test du prototype (interactions, projection...)
+- Ecriture du user journey !!
