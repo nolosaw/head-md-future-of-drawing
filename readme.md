@@ -8,5 +8,5 @@
 
 ## Direct links
 - [References](references/references.md)
-
+- [Miro du User journey](https://miro.com/app/board/uXjVNT7LWys=/?share_link_id=537963404648)
 
