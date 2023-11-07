@@ -26,4 +26,9 @@
 - Craig Mazin, scriptnotes 403, How to write a movie.
 - Aaron Sorkin, Wired interview
 
+## Références de User Journey
+
+- [Tubik journal](https://blog.tubikstudio.com/gamification-mechanics-in-ux-smart-user-journey/)
+
+
 
