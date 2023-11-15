@@ -19,6 +19,10 @@
 
 ## Références de projets d'interactive media design
 
+- [Echo](https://www.pinterest.fr/pin/482659285098061343/)
+- [Proximity sensor](https://www.pinterest.fr/pin/616289530270890498/)
+- [Table](https://www.pinterest.fr/pin/media--9148005512090959/)
+- [map children](https://www.pinterest.fr/pin/unseen-oceans-special-exhibition-explores-the-deep--608056387210547411/)
 
 ## Podcasts, interview, textes:
 
