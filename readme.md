@@ -1,5 +1,5 @@
 # Main file to explain what's going on
-[Important to see](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+## [Important to see](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Informations
 - there is a local folder with heavy documents
@@ -7,6 +7,7 @@
 
 
 ## Direct links
-- [References](references/references.md)
-- [Miro du User journey](https://miro.com/app/board/uXjVNT7LWys=/?share_link_id=537963404648)
+- [Read about the Process](/process/README.md)
+- [See or add references](references/references.md)
+- [User journey on Miro](https://miro.com/app/board/uXjVNT7LWys=/?share_link_id=537963404648)
 
