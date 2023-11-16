@@ -11,3 +11,8 @@
 - [See or add references](references/references.md)
 - [User journey on Miro](https://miro.com/app/board/uXjVNT7LWys=/?share_link_id=537963404648)
 
+## What's on the menu ?
+What to do next ?
+
+- starting to think of the overall electronics gadgets
+- draw a diagram of all of the basic technology that is in the project
