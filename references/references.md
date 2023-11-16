@@ -17,12 +17,15 @@
 - Lavoisier «Rien ne se perd, rien ne se crée, tout se transforme»
 
 
-## Références de projets d'interactive media design
+## Références de projets d'interaction
 
 - [Echo](https://www.pinterest.fr/pin/482659285098061343/)
 - [Proximity sensor](https://www.pinterest.fr/pin/616289530270890498/)
 - [Table](https://www.pinterest.fr/pin/media--9148005512090959/)
 - [map children](https://www.pinterest.fr/pin/unseen-oceans-special-exhibition-explores-the-deep--608056387210547411/)
+- [Sandbox](https://www.pinterest.fr/pin/613685886737738764/)
+- [wooden houses](https://www.pinterest.fr/pin/806074033292667768/)
+
 
 ## Podcasts, interview, textes:
 
