@@ -14,6 +14,11 @@ Everyday work in the studio, short summary of what has been done
 
 - Emotional feedback : 
 "Add a log that gives your personal impressions, i.e. how you feel about your project, your progress, any frustrations you have with us or with your project, questions you have moving forward, etc. Be subjective in this log, there are no rules"
+[emotional feedback](/process/2023-11-16/subjective-impressions.md)
+
+-electronic inputs and outputs
+![electronics](/process/2023-11-16/electronics1.png)
+
 
 
 # [15 novembre](/process/2023-11-15/)
