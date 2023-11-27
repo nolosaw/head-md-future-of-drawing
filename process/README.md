@@ -14,6 +14,11 @@ Everyday work in the studio, short summary of what has been done
 - First LED shining !
 ![arduino test](/process/2023-11-27/arduino2.jpg)
 
+## Intro to arduino
+- [Powerpoint Link](https://drive.switch.ch/index.php/s/83x2lqAuvwaNonM?path=%2FPresentations%2FElectronics#pdfviewer)
+
+- [First script](/electronics/arduino-intro/blinking/blinking.ino)
+
 # 20-24 novembre : Research week
 
 ![Research week](/process/2023-11-27/researchweek-joke.jpg)
