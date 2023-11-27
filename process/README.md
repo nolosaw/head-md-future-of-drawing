@@ -2,7 +2,22 @@
 
 Everyday work in the studio, short summary of what has been done
 
-![le fun toujours](/process/2023-11-16/meme.jpg)
+
+# [27 novembre](/process/2023-11-27/)
+
+## Intro to electronics 
+- [Powerpoint link](https://drive.switch.ch/index.php/s/83x2lqAuvwaNonM?path=%2FPresentations%2FElectronics#pdfviewer)
+
+- Exercises
+![exercise](/process/2023-11-27/exercise1.jpg)
+
+- First LED shining !
+![arduino test](/process/2023-11-27/arduino2.jpg)
+
+# 20-24 novembre : Research week
+
+![Research week](/process/2023-11-27/researchweek-joke.jpg)
+
 
 # [16 novembre](/process/2023-11-16/)
 
