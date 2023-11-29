@@ -14,5 +14,6 @@
 ## What's on the menu ?
 What to do next ?
 
-- starting to think of the overall electronics gadgets
+- start to think of the overall electronics gadgets with Pierre
 - draw a diagram of all of the basic technology that is in the project
+- learn 3D tools with Laure

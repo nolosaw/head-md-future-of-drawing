@@ -1,6 +1,31 @@
 # Process journal
 
-Everyday work in the studio, short summary of what has been done
+Everyday work in the studio, short summary of what has been done !
+
+![silly joke makes my day](/process/2023-11-29/another%20joke.jpg)
+
+
+# [29 novembre](/process/2023-11-29/)
+
+- Followings of the exercises and experimentations with arduino
+
+- [All sketches](/electronics/arduino-intro/)
+
+- Exemple: Nao and I began a small project of a quiz game.  Watch the video [here](/process/2023-11-29/quiz-video.mp4) and see the code [here](/electronics/arduino-intro/buzzer-bestversion/buzzer-bestversion.ino)
+
+![Quiz game](/process/2023-11-29/quiz-2.jpg)
+
+
+
+# [28 novembre](/process/2023-11-28/)
+
+## Intro to electronics
+
+- Followings of the exercises and experimentations with arduino
+
+- [All sketches](/electronics/arduino-intro/)
+
+- Exemple: we used an arduino and a LED as a [Light Theremin](/process/2023-11-28/light-theremine-video.mp4)
 
 
 # [27 novembre](/process/2023-11-27/)
@@ -9,17 +34,23 @@ Everyday work in the studio, short summary of what has been done
 - [Powerpoint link](https://drive.switch.ch/index.php/s/83x2lqAuvwaNonM?path=%2FPresentations%2FElectronics#pdfviewer)
 
 - Exercises
+
 ![exercise](/process/2023-11-27/exercise1.jpg)
 
 - First LED shining !
+
 ![arduino test](/process/2023-11-27/arduino2.jpg)
 
 ## Intro to arduino
 - [Powerpoint Link](https://drive.switch.ch/index.php/s/83x2lqAuvwaNonM?path=%2FPresentations%2FElectronics#pdfviewer)
 
-- [First script](/electronics/arduino-intro/blinking/blinking.ino)
+- [First sketch](/electronics/arduino-intro/blinking/blinking.ino)
+
 
 # 20-24 novembre : Research week
+
+We spent the week working on research projects and hearing conferences at ECAL.
+We heard the second year speaking about their master's thesis projects.
 
 ![Research week](/process/2023-11-27/researchweek-joke.jpg)
 
@@ -30,13 +61,16 @@ Everyday work in the studio, short summary of what has been done
 - [Pdf presentation](/presentations/2023-11-16/HEAD-MD1_Caran-d-Ache_Mathilde-Schibler_Topos.pdf)
 
 - Retours des enseignants : 
+
 ![retour présentation](/process/2023-11-16/retour-presentation.jpg)
 
 - Emotional feedback : 
+
 "Add a log that gives your personal impressions, i.e. how you feel about your project, your progress, any frustrations you have with us or with your project, questions you have moving forward, etc. Be subjective in this log, there are no rules"
 [emotional feedback](/process/2023-11-16/subjective-impressions.md)
 
 -electronic inputs and outputs
+
 ![electronics](/process/2023-11-16/electronics1.png)
 
 
@@ -45,6 +79,7 @@ Everyday work in the studio, short summary of what has been done
 
 ## User journey
 - [Miro du User journey](https://miro.com/app/board/uXjVNT7LWys=/?share_link_id=537963404648)
+
 ![User journey](/process/2023-11-15/user-journey-en.png)
 
 ## Work on the pitch
@@ -53,12 +88,16 @@ Everyday work in the studio, short summary of what has been done
 
 ## Presentation for Caran d'ache
 - Croquis 
+
 ![croquis](/process/2023-11-15/croquis-interaction.jpg)
 - Dessin sur Ipad (cf. dossier)
+
 ![ipad](/presentations/2023-11-16/Dossier%20HEAD-MD1_Caran-d-Ache_Name-Surname_Project-Name/Links/Illustration_sans_titre%202.png)
 - Dessins d'inspiration (cf.dossier)
+
 ![schuiten](/process/2023-11-15/shuiten3.jpg)
 - Images de l'interaction
+
 ![interaction](/process/2023-11-15/user-journey-mathi%20-%20Frame%204.jpg)
 
 
