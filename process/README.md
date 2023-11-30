@@ -9,6 +9,7 @@ Everyday work in the studio, short summary of what has been done !
 
 ## Intro and tutorials for Fusion 360 with Laure
 
+- See the file [here](/form/fusion360-intro/sharpener-exercise.f3d)
 - Some screenshots of the tutorial exercise:
 
 ![Sharpener](/process/2023-11-30/fusion360-1.png)
