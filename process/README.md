@@ -5,6 +5,18 @@ Everyday work in the studio, short summary of what has been done !
 ![silly joke makes my day](/process/2023-11-29/another%20joke.jpg)
 
 
+# [30 novembre](/process/2023-11-30/)
+
+- Intro and tutorials for Fusion 360 with Laure
+
+Some screenshots of the tutorial exercise:
+
+![Sharpener](/process/2023-11-30/fusion360-1.png)
+![Sharpener](/process/2023-11-30/fusion360-2.png)
+
+- References researches (technical, tutorials, projects, artists...) added to the [references folder](/references/)
+
+
 # [29 novembre](/process/2023-11-29/)
 
 - Followings of the exercises and experimentations with arduino
