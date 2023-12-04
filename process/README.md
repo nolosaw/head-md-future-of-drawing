@@ -4,6 +4,13 @@ Everyday work in the studio, short summary of what has been done !
 
 ![silly joke makes my day](/process/2023-11-29/another%20joke.jpg)
 
+# [4 décembre](/process/2023-12-04/)
+
+## Work on prototype
+
+- Updates on the [Miro](https://miro.com/app/board/uXjVNT7LWys=/?share_link_id=537963404648)
+
+
 
 # [30 novembre](/process/2023-11-30/)
 
