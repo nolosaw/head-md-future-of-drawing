@@ -4,12 +4,46 @@ Everyday work in the studio, short summary of what has been done !
 
 ![silly joke makes my day](/process/2023-11-29/another%20joke.jpg)
 
+# [Click here to see what's next](/process/TO-DO.md)
+
+# Day by day
+
+# [6 décembre](/process/2023-12-06/)
+
+## Fusion 360 
+- Pencil prototype
+
+- ![Pencil](/process/2023-12-06/test-crayon.png)
+
+## 3D test of the pencil
+- Test of a pencil printed in 3D
+
+- ![Pencil](/process/2023-12-06/pencil1.jpg)
+- ![Pencil](/process/2023-12-06/pencil2.jpg)
+- ![Pencil](/process/2023-12-06/pencil3.jpg)
+
+## Planning and to-do list
+- [Reference file of what to do](/process/TO-DO.md)
+- Talk with Douglas about components and process
+- Research of components
+
+
+
+# [5 décembre](/process/2023-12-05/)
+
+## Fusion 360 tutorials
+
+## Work with Pierre on the components needed
+- Infrared pencil
+- Infrared camera that detects the light blob
+- Rasberry Pi sending a position to the Mac Mini
+
+
 # [4 décembre](/process/2023-12-04/)
 
 ## Work on prototype
 
 - Updates on the [Miro](https://miro.com/app/board/uXjVNT7LWys=/?share_link_id=537963404648)
-
 
 
 # [30 novembre](/process/2023-11-30/)
