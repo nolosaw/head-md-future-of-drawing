@@ -1,19 +1,21 @@
 # Main file to explain what's going on
 ## [Important to see](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-## Informations
-- there is a local folder with heavy documents
-- the journal is in the process folder, inside each day
 
 
-## Direct links
+## Lessons
+- [Switch Drive](https://drive.switch.ch/index.php/s/83x2lqAuvwaNonM)
+- [Brief](https://docs.google.com/document/d/1VKoXp-PmT5qXuNfn-LKc6YPwOwoJYS1H5w_JHSfqx4E/edit?usp=sharing)
+- [Planning](https://docs.google.com/spreadsheets/d/1DNj3_oX0Ylk0cCknxfrBinFD1PKgiu5psvVX0FJ8SFI/edit?usp=sharing)
+
+- [Wishlist](https://docs.google.com/spreadsheets/d/1fxIhseh8twFBA1GmOUfJtagy6xdIwHaah2l-c_bbXds/edit?usp=sharing)
+
+
+## Direct links to my project
 - [Read about the Process](/process/README.md)
 - [See or add references](references/references.md)
 - [User journey on Miro](https://miro.com/app/board/uXjVNT7LWys=/?share_link_id=537963404648)
 
 ## What's on the menu ?
-What to do next ?
 
-- start to think of the overall electronics gadgets with Pierre
-- draw a diagram of all of the basic technology that is in the project
-- learn 3D tools with Laure
+### [Overall plan to make this project reality](/process/TO-DO.md)
