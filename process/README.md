@@ -8,6 +8,13 @@ Everyday work in the studio, short summary of what has been done !
 
 # Day by day
 
+# [8 décembre](/process/2023-12-08/)
+
+## Prototyping workshop
+- 1/2.5 size prototype of the structure
+- Test out the thermoformed plastic
+
+
 # [7 décembre](/process/2023-12-07/)
 
 ## Reset with Douglas
@@ -26,6 +33,10 @@ Everyday work in the studio, short summary of what has been done !
 ![test-prototype](/process/2023-12-07/test-laser3.jpg)
 ![test-prototype](/process/2023-12-07/test-laser4.jpg)
 ![test-prototype](/process/2023-12-07/test-laser5.jpg)
+
+## 1/2.5 prototype of the structure
+- File for tomorrow
+
 
 
 
