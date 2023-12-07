@@ -87,6 +87,10 @@ Guided by visuals and sounds, the user is invited to touch the surface with a pe
 - Collect sounds related to the map
 - Record voice telling the stories triggered by the pen
 
+### Overall power
+- calculate the power needed
+- check the potential heating problems
+
 
 ![drawing](/process/2023-12-07/map-sketch.jpg)
 
