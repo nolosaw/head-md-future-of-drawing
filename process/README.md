@@ -1,4 +1,4 @@
-# Process journal
+# Designer journey
 
 Everyday work in the studio, short summary of what has been done !
 
@@ -7,6 +7,14 @@ Everyday work in the studio, short summary of what has been done !
 # [Click here to see what's next](/process/TO-DO.md)
 
 # Day by day
+
+# [7 décembre](/process/2023-12-07/)
+
+## Reset with Douglas
+- Point on the next steps
+[Read more about it here](/process/STEPS.md)
+- Point on test day
+
 
 # [6 décembre](/process/2023-12-06/)
 
