@@ -1,21 +1,24 @@
-# Main file to explain what's going on
-## [Important to see](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+# Future of drawing - Project for Caran d'Ache
 
+[Important to see](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+## Designer journey
 
-## Lessons
-- [Switch Drive](https://drive.switch.ch/index.php/s/83x2lqAuvwaNonM)
-- [Brief](https://docs.google.com/document/d/1VKoXp-PmT5qXuNfn-LKc6YPwOwoJYS1H5w_JHSfqx4E/edit?usp=sharing)
-- [Planning](https://docs.google.com/spreadsheets/d/1DNj3_oX0Ylk0cCknxfrBinFD1PKgiu5psvVX0FJ8SFI/edit?usp=sharing)
+### [What have we done so far ?](/process/README.md)
 
-- [Wishlist](https://docs.google.com/spreadsheets/d/1fxIhseh8twFBA1GmOUfJtagy6xdIwHaah2l-c_bbXds/edit?usp=sharing)
+## Useful links
 
+- [References](references/references.md) ...culture, media design and technical stuffs
+- [Project on Miro](https://miro.com/app/board/uXjVNT7LWys=/?share_link_id=537963404648) ...user journey and electronic schemes
 
-## Direct links to my project
-- [Read about the Process](/process/README.md)
-- [See or add references](references/references.md)
-- [User journey on Miro](https://miro.com/app/board/uXjVNT7LWys=/?share_link_id=537963404648)
+## Lessons links
+- [Switch Drive](https://drive.switch.ch/index.php/s/83x2lqAuvwaNonM) ...what did the teachers give us ?
+- [Brief](https://docs.google.com/document/d/1VKoXp-PmT5qXuNfn-LKc6YPwOwoJYS1H5w_JHSfqx4E/edit?usp=sharing) ...what does the client want ?
+- [Planning](https://docs.google.com/spreadsheets/d/1DNj3_oX0Ylk0cCknxfrBinFD1PKgiu5psvVX0FJ8SFI/edit?usp=sharing) ...what to do when ?
+
+- [Wishlist](https://docs.google.com/spreadsheets/d/1fxIhseh8twFBA1GmOUfJtagy6xdIwHaah2l-c_bbXds/edit?usp=sharing) ...what do we need to buy ?
+
 
 ## What's on the menu ?
 
-### [Overall plan to make this project reality](/process/TO-DO.md)
+### [Overall plan to make this project reality](/process/TO-DO.md) 

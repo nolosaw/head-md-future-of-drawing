@@ -4,10 +4,10 @@
 Help an artist to recover the artpiec that has been covered in india ink.
 Guided by visuals and sounds, the user is invited to touch the surface with a pencil to reveal the story behind it.
 
-![electronics scheme](/process/2023-12-07/electronics-scheme.jpg)
-
 
 # All the steps to build the thing
+
+![procrastination](/process/2023-12-07/procrastination-meme.jpeg)
 
 ## Form
 
@@ -47,6 +47,8 @@ Guided by visuals and sounds, the user is invited to touch the surface with a pe
     - Room to let the electricity go out
 
 ## Electronics
+
+![electronics scheme](/process/2023-12-07/electronics-scheme.jpg)
 
 ### Infrared pen
 - Battery
