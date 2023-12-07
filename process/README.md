@@ -15,6 +15,19 @@ Everyday work in the studio, short summary of what has been done !
 [Read more about it here](/process/STEPS.md)
 - Point on test day
 
+## Prototyping workshop
+- Plan of what to print for the wavy structure
+![test-laser](/process/2023-12-07/mdf-wavystructure-plan.png)
+- Informations about molded plastic surface
+- Testing the wavy structure form
+![test-laser](/process/2023-12-07/test-laser.jpg)
+- Small prototype of what the structure will look like
+![test-prototype](/process/2023-12-07/test-laser2.jpg)
+![test-prototype](/process/2023-12-07/test-laser3.jpg)
+![test-prototype](/process/2023-12-07/test-laser4.jpg)
+![test-prototype](/process/2023-12-07/test-laser5.jpg)
+
+
 
 # [6 décembre](/process/2023-12-06/)
 

@@ -40,11 +40,22 @@ Guided by visuals and sounds, the user is invited to touch the surface with a pe
 - Room for the pen when not used
 
 ### Structure
-- bottom surface (removable or not ?)
-- Wavy wood (laser cutted)
-    - Headphones holder
-    - Room for the mac mini, the beamer and the infrared camera
-    - Room to let the electricity go out
+- Wavy structure
+    - diameter approx. 500mm
+    - height 850mm
+    - one hole to let the power go in
+    - one hole to let the headphones go out
+    - mdf 3mm laser cutted
+    - [cutting file](/form/structure/wavy-part/schibler-decoupe-mdf-oui.ai) 
+    - the three different parts are sewed and glued together
+- bottom surface 
+    - depends on the waves made by the wavy wood
+    - part removable, to be able to move the devices from the ground 
+    - part attached to the surface, to hold it in place
+    - the two parts go inside each other like a puzzle
+- holding surface
+    - mdf cutted from to hold the structure on top
+
 
 ## Electronics
 
