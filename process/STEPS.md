@@ -1,47 +1,78 @@
-# Topos
+# What's on the menu ?
 
-## Project explanation
-
-### Story
+### Abstract
 Help an artist to recover the artpiec that has been covered in india ink.
-
-### Interaction
 Guided by visuals and sounds, the user is invited to touch the surface with a pencil to reveal the story behind it.
 
-## Objects
+![electronics scheme](/process/2023-12-07/electronics-scheme.jpg)
+
+
+# All the steps to build the thing
+
+## Form
+
+### Pencil
+- 3D model
+- Print 3D test
+- Think about the weight
+
+### Surface and structure
+- 3D model
+- Test shapes and protoype
+- Don't forget holes for power and wires
+
+## Materials
 
 ### Pen
 - What material ?
-- Infrared lamp inside
+    - Wood ?
+    - 3D Print
+    - Test at the atelier
+    - Make space for electronics    
 
 ### Surface
-- Thermoshaped plastic
+- Thermoshaped plastic 
+    - Heating pistol ?
+    - Thermoshaping machine
 - Paper molded on it > has to let the light com through
+    - Fish glue
+    - Find the right paper
 - Room for the pen when not used
 
 ### Structure
+- bottom surface (removable or not ?)
 - Wavy wood (laser cutted)
-- Headphones holder
-- Room for the mac mini, the beamer and the infrared camera
-- Room to let the electricity go out
+    - Headphones holder
+    - Room for the mac mini, the beamer and the infrared camera
+    - Room to let the electricity go out
 
-## Electronics materials
+## Electronics
 
-- Flashlight that displays infrared light
-[galaxus](https://www.galaxus.ch/fr/s1/product/waveshare-camera-raspberry-pi-ir-cut-vision-nocturne-infrarouge-carte-de-developpement-kit-24963492)
-- An infrared camera
-- Mac Mini
-- Beamer
-- Headphones
-- Wires (HDMI, Jack, Electric)
+### Infrared pen
+- Battery
+- Resistance
+- Light
+- Wiring
 
+### Infrared camera
+- Block visible light
+- Blob detection
+- Raspberry Pi
+    - Connecting to camera
+    - Sending mouse signal to mac mini
+- Wiring
 
-## Code
+### Unity program
+- Recieve raspberry signal
+- Trigger visuals
+- Trigger sounds 
+- Send to beamer and headphones
 
-### Unity
-- C#
+### Beamer
+- Mapping design to the surface
+- Heating problem inside the box
 
-## Experience
+## Design the experience
 
 ### Visuals
 - Intro animation
@@ -54,7 +85,10 @@ Guided by visuals and sounds, the user is invited to touch the surface with a pe
 - Collect sounds related to the map
 - Record voice telling the stories triggered by the pen
 
-## What to buy/use ?
+
+![drawing](/process/2023-12-07/map-sketch.jpg)
+
+# What to buy/use ?
 
 ### Electronics
 - Raspberry Pi
@@ -77,7 +111,9 @@ Guided by visuals and sounds, the user is invited to touch the surface with a pe
 - Crayon ?? (Print 3D, bois...)
 
 
-## Planning
+
+
+# Planning
 
 ### 6 december - in class
 
