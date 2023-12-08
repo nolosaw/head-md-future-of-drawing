@@ -11,11 +11,40 @@ Everyday work in the studio, short summary of what has been done !
 # [8 décembre](/process/2023-12-08/)
 
 ## Prototyping workshop
-- 1/2.5 size prototype of the structure
+- wavy surface
+    - scheme of what to make
+    ![wood-scheme](/process/2023-12-08/wavy-surface-scheme2.jpg)
+    - 1/2.5 size prototype of the structure
+    ![wood test](/process/2023-12-08/wood2.jpg)
+    - test of how to assemble the three parts
 - Test out the thermoformed plastic
+    - issue with the surface : how to mold the plastic ??
+    - inspirations
+    ![island](/process/2023-12-08/island-inspo1.jpg)
+    ![island](/process/2023-12-08/island-inspo3.jpg)
+    ![island](/process/2023-12-08/island-inspo4.jpg)
+    ![island](/process/2023-12-08/island-inspo5.jpg)
+
+
+## Wood workshop
+- Pencil
+    - Cut the edges
+    - make a hole inside for electronics
+    - make a tiny hole to hold the LED
+    - turn the wood to sharpen the pencil
+
+## Story
+- The island
+    - What does it look like
+    - Which informations do we give the user
+    - How is it told ?
+
+
 
 
 # [7 décembre](/process/2023-12-07/)
+
+## "The story must lead the form, not the opposite."
 
 ## Reset with Douglas
 - Point on the next steps
@@ -36,6 +65,8 @@ Everyday work in the studio, short summary of what has been done !
 
 ## 1/2.5 prototype of the structure
 - File for tomorrow
+    ![wood-scheme](/process/2023-12-07/wavy-surface-scheme.jpg)
+
 
 
 
