@@ -16,6 +16,10 @@ Everyday work in the studio, short summary of what has been done !
 - What do I want to test ? [My own needs](/process/2023-12-14-testday/testday.md)
 - What to prepare ? [Scheme of what to install]()
 
+## Unity test for the game
+
+- What do I want ? [Unity planning](/process/2023-12-12/unity-test.md)
+
 
 # [11 décembre](/process/2023-12-11/)
 
