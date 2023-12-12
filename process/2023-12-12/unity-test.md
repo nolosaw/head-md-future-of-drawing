@@ -1,4 +1,4 @@
-# Unity first test
+# Processing first test
 
 ## What I want to do 
 
@@ -27,4 +27,3 @@ Un jeu ou une image en noir et blanc s'affiche par défaut sur l'écran, mais qu
 
 ## Comment ?
 
-s

@@ -80,7 +80,7 @@ Guided by visuals and sounds, the user is invited to touch the surface with a pe
     - Sending mouse signal to mac mini
 - Wiring
 
-### Unity program
+### Processing program
 - Recieve raspberry signal
 - Trigger visuals
 - Trigger sounds 
