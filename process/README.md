@@ -8,6 +8,36 @@ Everyday work in the studio, short summary of what has been done !
 
 # Day by day
 
+# [12 décembre](/process/2023-12-12/)
+
+## Getting ready for Test Day 
+
+- What will we do ? [Day schedule](https://drive.switch.ch/index.php/apps/onlyoffice/s/hhpLyvitP0zu2vn?fileId=6989904616)
+- What do I want to test ? [My own needs](/process/2023-12-14-testday/testday.md)
+- What to prepare ? [Scheme of what to install]()
+
+
+# [11 décembre](/process/2023-12-11/)
+
+## Pencil prototype
+- Wood turning
+![Pencil WIP](/process/2023-12-11/crayon-wip-1.jpg)
+![Pencil WIP](/process/2023-12-11/crayon-wip-2.jpg)
+![Pencil WIP](/process/2023-12-11/crayon-wip-3.jpg)
+
+- Wood pencil prototype
+![Pencil WIP](/process/2023-12-11/crayon-1.jpg)
+![Pencil WIP](/process/2023-12-11/crayon-4.jpg)
+
+## Intro to welding
+- Tutorials with Pierre
+- Scheme on Fritzing
+![Scheme Fritzing](/process/2023-12-11/fritzing-scheme.jpg)
+- Practice exercise
+![Welding Intro](/process/2023-12-11/soudure1.jpg)
+![Welding Intro](/process/2023-12-11/soudure3.jpg)
+![Welding Intro](/process/2023-12-11/soudure4.jpg)
+
 # [8 décembre](/process/2023-12-08/)
 
 ## Prototyping workshop

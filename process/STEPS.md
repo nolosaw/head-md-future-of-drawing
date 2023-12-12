@@ -13,9 +13,14 @@ Guided by visuals and sounds, the user is invited to touch the surface with a pe
 
 ### Pencil
 - 3D model
-- Print 3D test
+    - Print 3D test
 - Think about the weight
-
+- Wood Prototyping
+    - Cut the edges
+    - make a hole inside for electronics
+    - make a tiny hole to hold the LED
+    - turn the wood to sharpen the pencil
+    
 ### Surface and structure
 - 3D model
 - Test shapes and protoype
