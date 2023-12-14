@@ -8,6 +8,14 @@ Everyday work in the studio, short summary of what has been done !
 
 # Day by day
 
+# [13 décembre](/process/2023-12-13/)
+
+## Processing
+- Prototyping a small Demo for Test Day
+- Find the code [here](/electronics/processing/processing_test_day2/processing_test_day2.pde)
+
+
+
 # [12 décembre](/process/2023-12-12/)
 
 ## Getting ready for Test Day 

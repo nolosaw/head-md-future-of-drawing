@@ -1,5 +1,40 @@
 # Test Day
 
+# Feedbacks
+
+## Pencil
+- Shape
+    - too big > we don't see the visuals
+    - not very nice, make it more beautiful
+    - not related to the style of the drawings, adapt one to another
+    - should mabe be a brush or something
+
+- Idea
+    - Good to be a pencil, it has meaning and personality, work on it
+    - Unify the story, the surface and the pencil
+    
+## Surface
+
+- Moulage
+    - thermoforming in prototyping foam
+- Paper
+    - Test if molding works
+    
+
+## Structure
+
+- Not wavy enough, test different sizes
+- Must be at least 100cm high
+
+
+## Story
+
+- The pencil should tell the story
+- Narges' story about their parents
+
+
+# Preparation
+
 ## What to test ?
 
 ### Objects
@@ -47,3 +82,4 @@
 - Do I have enough time to do it ? 
 - What should I prioritize ?
 - What do I have to be very careful about ?
+

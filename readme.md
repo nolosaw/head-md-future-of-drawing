@@ -5,6 +5,7 @@
 ## Designer journey
 
 ### [What have we done so far ?](/process/README.md)
+### [About Test Day](/process/2023-12-14-testday/testday.md)
 
 ## Useful links
 
