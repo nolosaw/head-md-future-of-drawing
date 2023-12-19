@@ -8,6 +8,22 @@ Everyday work in the studio, short summary of what has been done !
 
 # Day by day
 
+# [19 décembre](/process/2023-12-19/)
+
+## List of what to make for tomorrow
+- [1 x Fusion 360 file](/form/pencil/)
+
+- 2 x snapshots (.png/.jpg) of the above 3D file
+![snapshots](/form/pencil/pencil-3d-1.png)
+![snapshots](/form/pencil/pencil-3d-2.png)
+
+- Component details
+![component-details](/form/Composants-schéma.png)
+
+![component-details](/form/Composants-schéma2.png)
+
+![component-details](/form/Composants-schéma3.png)
+
 # [13 décembre](/process/2023-12-13/)
 
 ## Processing

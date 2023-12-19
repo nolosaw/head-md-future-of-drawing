@@ -33,6 +33,11 @@
 - Narges' story about their parents
 
 
+## Processing
+
+- Layer in Pgraphics
+- Use BlendMode Multiply [Reference](https://processing.org/reference/blendMode_.html)
+
 # Preparation
 
 ## What to test ?
