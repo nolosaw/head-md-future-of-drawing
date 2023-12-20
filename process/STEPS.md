@@ -172,7 +172,31 @@ Guided by visuals and sounds, the user is invited to touch the surface with a pe
 
 ### 20 december - in class
 
+- discussion with Douglas
+    - Story
+    - Form
+
 ### 21 december - in class
+
+- Discussion with Laure
+    - Pencil
+    - Surface
+    - Structure
+    - Story
+
+- Discussion with Pierre
+    - Processing
+    - Infrared camera
+
+- Write story
+    - Think about the pencil texture
+    - Write little stories
+    - Storyboard animations
+
+### 23 december - solo
+
+- Write texts
+- Draw
 
 ### 27 december - solo
 
@@ -181,23 +205,46 @@ Guided by visuals and sounds, the user is invited to touch the surface with a pe
 
 ### 28 december - solo
 
-- Work on unity
+- Work on processing
+- Draw
+- Work on animations
 
 ### 29 december - solo
 
+- Work on processing
+- Draw
+- Work on animations
+
 ### 8 january - in class
+
+- Point with teachers
+- Finish animations and voices
 
 ### 9 january - in class
 
+- Finish code
+
 ### 10 january - in class
+
+- Day at the wood workshop
 
 ### 11 january - in class
 
+- Assembling electronics
+
 ### 12 january - solo
+
+- Presentation for Jury
 
 ### 15 january - in class
 
+- Assembling everything
+- Take pictures to put in the presentation
+- Testing
+
 ### 16 january - in class
+
+- Fix inevitable problems
 
 ### 17 january - JURY!
 
