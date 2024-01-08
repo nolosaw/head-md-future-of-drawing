@@ -37,7 +37,7 @@ void setup() {
   pinMode(BUTTONJ, INPUT_PULLUP);  //connect internal resistor to pin
 
   //Turn the leds off when started except the Reset button
-  digitalWrite(LEDR, HIGH
+  digitalWrite(LEDR, HIGH);
   digitalWrite(LEDR, LOW);
   digitalWrite(LEDV, LOW);
   digitalWrite(LEDB, LOW);
