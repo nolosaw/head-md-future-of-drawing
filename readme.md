@@ -1,23 +1,22 @@
-# Future of drawing - Project for Caran d'Ache
+# Topos - Project for Caran d'Ache
 
-[Important to see](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![topos](/8-archives/portfolio-pictures/photo-1.png)
 
-## Designer journey
-
-### [What have we done so far ?](/process/README.md)
-### [About Test Day](/process/2023-12-14-testday/testday.md)
-
-## Useful links
-
-- [References](references/references.md) ...culture, media design and technical stuffs
-- [Project on Miro](https://miro.com/app/board/uXjVNT7LWys=/?share_link_id=537963404648) ...user journey and electronic schemes
-
-## Lessons links
-- [Brief](https://docs.google.com/document/d/1VKoXp-PmT5qXuNfn-LKc6YPwOwoJYS1H5w_JHSfqx4E/edit?usp=sharing) ...what does the client want ?
-- [Planning](https://docs.google.com/spreadsheets/d/1DNj3_oX0Ylk0cCknxfrBinFD1PKgiu5psvVX0FJ8SFI/edit?usp=sharing) ...what to do when ?
+A project by Mathilde S. made at HEAD-Genève, at the Master Media Design. 2023-2024
+Supported by Douglas Edric Stanley, Alexia Mathieu, Laure Krayenbuhl, Pierre Rossel and Pablo Bellon.
+With the help of Clément Schlemmer at the wood workshop and Véronique and Vincent for the voices.
 
 
-## What's on the menu ?
 
-### [Form plans](/process/2023-12-19/Composants-schéma.pdf)
-### [Overall plan to make this project reality](/process/TO-DO.md) 
+### Discover the whole process by clicking [here](/1-process/README.md)
+
+### This project is organised this way
+
+- [1.](/1-process/) Process - What did we do ?
+- [2.](/2-references/) References - What is this project based on ?
+- [3.](/3-briefs/) Briefs - What did we learn ?
+- [4.](/4-presentations/) Presentations - What did we show ?
+- [5.](/5-content/) Content - What is the story ?
+- [6.](/6-form/) Form - How does it look like ?
+- [7.](/7-electronics/) Electronics - How does it work ?
+- [8.](/8-archives/) Archives - What remains of it ?
